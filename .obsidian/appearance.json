@@ -2,5 +2,6 @@
   "cssTheme": "Baseline",
   "theme": "moonstone",
   "accentColor": "#6ef55c",
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "baseFontSizeAction": true
 }
