@@ -6,8 +6,12 @@ author: Zes Zheng
 tags:
   - Ling
 ---
-## Wh
+## What are we doing when we "use" language?
 ### What is Language?
+
+
+
+### 
 
 
 
